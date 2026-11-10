@@ -1,0 +1,23 @@
+# PDF datoteke
+*.pdf
+
+# LaTeX začasne datoteke
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
+*.nav
+*.snm
+*.vrb
+
+# Druge začasne datoteke
+*.tmp
+*.bak
+.DS_Store
