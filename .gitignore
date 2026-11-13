@@ -311,4 +311,19 @@ TSWLatexianTemp*
 # glossaries
 *.glstex
 
+# SSH keys
+ed25519
+ed25519.pub
+
+# LaTeX auxiliary files
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+
+# Compiled PDF files
+*.pdf
+
 # End of https://www.toptal.com/developers/gitignore/api/latex
